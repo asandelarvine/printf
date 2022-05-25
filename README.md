@@ -18,3 +18,5 @@ Specifier characters at the end define the type and the interpretation of it's c
 # Compilation
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 
+### Author
+Asande Larvine
